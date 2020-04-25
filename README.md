@@ -1,5 +1,5 @@
 # Problem-Solving
 
-# Dyanmic-Programming
-  # Basic
-      -MinimumStepsToReachOne.java
+ |----Dyanmic-Programming
+      |----Basic
+              MinimumStepsToReachOne.java
